@@ -3,7 +3,9 @@
 This is a Streamlit-based web application that predicts whether it will rain based on weather parameters. The app uses a logistic regression model trained on weather data to make predictions.
 
 ---
-
+## Live App 
+https://rain-prediction-app.streamlit.app/
+---
 ## Features
 
 - **Rain Prediction**: Predicts whether it will rain based on user-provided weather parameters.
